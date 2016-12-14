@@ -1,6 +1,8 @@
 Computer Viruses
 ================
 
+Last update: 1996 - 1997
+
 This project contains education / informative materials about DOS viruses.
 
 - The [/src](/src) folder contains a few DOS bases viruses created in assembler
