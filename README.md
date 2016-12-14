@@ -5,7 +5,7 @@ Last update: 1996 - 1997
 
 This project contains education / informative materials about DOS viruses.
 
-- The [/src](/src) folder contains a few DOS bases viruses created in assembler
+- The [/src](/src) folder contains a few DOS bases viruses created in assembly language
 - The [/doc](/doc) folder contains information about DOS viruses and antiviruses
 
 ```assembly
