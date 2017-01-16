@@ -38,4 +38,4 @@ entr   proc near
 	...
 ```
 
-VMA
+![Analytics](https://ga-beacon.appspot.com/UA-2402433-14/beacon.en.html)
