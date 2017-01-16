@@ -38,4 +38,4 @@ entr   proc near
 	...
 ```
 
-![Analytics](https://ga-beacon.appspot.com/UA-2402433-14/beacon.en.html)
+![Analytics](https://ga-beacon.appspot.com/UA-2402433-6/beacon.en.html)
